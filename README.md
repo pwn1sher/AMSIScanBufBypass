@@ -1,0 +1,2 @@
+# AMSIScanBufBypass
+Memory Patching AMSIScanBuffer 
